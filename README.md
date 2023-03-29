@@ -29,8 +29,6 @@ Hi, I'm a student who is interested in programming and development from South Ko
 
 <img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"><img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
 
-Mainly use C++(Modern C++), Dart, Solidity, Flutter, Firebase
-
 ## 🎮 Algorithm (with C++)
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmblue12)](https://solved.ac/gmblue12)
