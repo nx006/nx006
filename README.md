@@ -4,7 +4,7 @@
 
 Hi, I'm a student who is interested in programming and development from South Korea, Hongik University.
 
-[Career 🇺🇸](#-career) [🇰🇷](#🚀-경력) | [Skills](#-skills) | [Algorithm](#-algorithm-with-c) | [Study, Research, Speaker](#-study-research-speaker)
+[Career 🇺🇸](#🚀-historia) [🇰🇷](#🚀-경력) | [Skills](#-skills) | [Algorithm](#-algorithm-with-c) | [Study, Research, Speaker](#🖌️-study-research-speaker)
 
 ## 🚀 Historia
 | Date | Career | Role |
