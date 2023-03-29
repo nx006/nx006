@@ -54,5 +54,5 @@ Studied History
 | 2022.06 ~ 2023.03 | 홍익대학교 블록체인 학회 [HIBL](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) 창립 운영진 | SC 팀 팀장 겸 총무 |
 | 2022.08 ~ 2023.01 | GDSC 홍익 AIML 멤버 | |
 | 2022.12 ~ | HIBL X WAU PFP NFT 프로젝트 개발 | 스마트 컨트랙트 개발 및 팀 매니징 |
-| 2022.12 ~ | [어린왕자 개발 학회 B612](https://github.com/HongikB612) 운영 | 창립 회장 |
+| 2022.12 ~ | [어린왕자 개발 학회 B612](https://github.com/HongikB612) 창립 운영진 | 창립 회장 |
 | 2023.01 ~ 2023.04 | 구글 솔루션 챌린지 참가, [어반링크](https://github.com/HongikB612/UrbanLink) 프로젝트 제출 | 기획 겸 리드 개발 |
