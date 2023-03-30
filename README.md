@@ -4,7 +4,7 @@
 
 Hi, I'm a student who is interested in programming and development from South Korea, Hongik University.
 
-[Career 🇺🇸](#-historia) [🇰🇷](#-경력) | [Skills](#-skills) | [Algorithm](#-algorithm-with-c) | [Study, Research, Speaker](%EF%B8%8F-study-research-speaker)
+[Career 🇺🇸](#-historia) [🇰🇷](#-경력) | [Skills](#-skills) | [Algorithm](#-algorithm-with-c) | [Study, Research, Speaker](#-study-research-speaker)
 
 ## 🚀 Historia
 | Date | Career | Role |
@@ -37,7 +37,7 @@ Studied History
 - [Notion](https://hongik-b612.notion.site/5ba2e841c70e4743b1ef03dbdd94abbd?v=34108fefefcd42fea85c77819a1df199)
 - [Github](https://github.com/nx006/algorithm-study)
 
-## 🖌️ Study, Research, Speaker
+## 📖 Study, Research, Speaker
 
 - [Tistory blog](https://nx006.tistory.com/)
 - Speak
