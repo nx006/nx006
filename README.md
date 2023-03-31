@@ -10,16 +10,16 @@ Hi, I'm a student who is interested in programming and development from South Ko
 | Date | Career | Role |
 |:---:|:---:|:---:|
 | 2022.03 ~ | Hongik University, Department of Computer Engineing |
-| 2022.06 ~ 2023.03 | Management of the [HIBL(Hongik Blockchain)](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) Club | Founding Organizer |
+| 2022.06 ~ 2023.03 | Manager of the [HIBL(Hongik Blockchain)](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) Club | Founding Organizer |
 | 2022.08 ~ 2023.01 | Member of GDSC Hongik AIML |  |
-| 2022.12 ~ | Blockchain developer at HIBL X WAU PFP NFT Project | Smart Contract Developer and SC team manager |
-| 2022.12 ~ | Management of development community [B612](https://github.com/HongikB612) | Founding President |
+| 2022.12 ~ | Blockchain developer at HIBL X WAU PFP NFT Project | Smart Contract Developer and Team Manager |
+| 2022.12 ~ | Manager of development community [B612](https://github.com/HongikB612) | Founding President |
 | 2023.01 ~ 2023.04 | Developer for [UrbanLink](https://github.com/HongikB612/UrbanLink), a project submitted to the Google Solution Challenge | Project Manager, Mobile and Backend Developer |
 
 ## 📚 Skills
 ### Languages
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 
 ### Frameworks
 
@@ -49,7 +49,7 @@ Studied History
 | 기간 | 경력 | 역할 |
 |:---:|:---:|:---:|
 | 2022.03 ~ | 홍익대학교 서울캠퍼스 컴퓨터공학과 입학 |
-| 2022.06 ~ 2023.03 | 홍익대학교 블록체인 학회 [HIBL](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) 창립 운영진 | SC 팀 팀장 겸 총무 |
+| 2022.06 ~ 2023.03 | 홍익대학교 블록체인 학회 [HIBL](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) 창립 운영진 | 스마트 컨트랙트 팀 팀장 겸 총무 |
 | 2022.08 ~ 2023.01 | GDSC 홍익 AIML 멤버 | |
 | 2022.12 ~ | HIBL X WAU PFP NFT 프로젝트 개발 | 스마트 컨트랙트 개발 및 팀 매니징 |
 | 2022.12 ~ | [어린왕자 개발 학회 B612](https://github.com/HongikB612) 창립 운영진 | 창립 회장 |
