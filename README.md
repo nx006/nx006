@@ -34,7 +34,7 @@ Hi, I'm a student who is interested in programming and development from South Ko
 <details>
 <summary> <b> Google Solution Challenge 2023 - UrbanLink </b> </summary>
 
-### 📱 [Location Based Community Service, UrbanLink](https://github.com/HongikB612/UrbanLink)
+### 🏬 [Location Based Community Service, UrbanLink](https://github.com/HongikB612/UrbanLink)
 - <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
 - Project Submission for Google Solution Challenge 2023
 - Community-based services to contribute to sustainable cities, goal 11 of the UN's 17 Sustainable Development Goals.
