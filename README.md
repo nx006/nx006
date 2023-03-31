@@ -4,7 +4,7 @@
 
 Hi, I'm a student who is interested in programming and development from South Korea, Hongik University.
 
-[Career 🇺🇸](#-historia) [🇰🇷](#-경력) | [Skills](#-skills) | [Algorithm](#-algorithm-with-c) | [Study, Research, Speaker](#-study-research-speaker)
+[Career 🇺🇸](#-historia) [🇰🇷](#-경력) | [Skills](#-skills) | [Projects](#-projects) | [Algorithm](#-algorithm-with-c) | [Study, Research, Speaker](#-study-research-speaker)
 
 ## 🚀 Historia
 | Date | Career | Role |
@@ -12,7 +12,7 @@ Hi, I'm a student who is interested in programming and development from South Ko
 | 2022.03 ~ | Hongik University, Department of Computer Engineing |
 | 2022.06 ~ 2023.03 | Manager of the [HIBL(Hongik Blockchain)](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) Club | Founding Organizer |
 | 2022.08 ~ 2023.01 | Member of GDSC Hongik AIML |  |
-| 2022.12 ~ | Blockchain developer at HIBL X WAU PFP NFT Project | Smart Contract Developer and Team Manager |
+| 2022.12 ~ | Blockchain developer for HIBL X WAU PFP NFT Project | Smart Contract Developer and Team Manager |
 | 2022.12 ~ | Manager of development community [B612](https://github.com/HongikB612) | Founding President |
 | 2023.01 ~ 2023.04 | Developer for [UrbanLink](https://github.com/HongikB612/UrbanLink), a project submitted to the Google Solution Challenge | Project Manager, Mobile and Backend Developer |
 
