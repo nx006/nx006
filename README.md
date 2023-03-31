@@ -19,15 +19,29 @@ Hi, I'm a student who is interested in programming and development from South Ko
 ## 📚 Skills
 ### Languages
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 
 ### Frameworks
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
 
 ### Tools
 
-<img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"><img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+
+## ⛳️ Projects
+
+<details>
+<summary> <b> Google Solution Challenge 2023 - UrbanLink </b> </summary>
+
+### 📱 [Location Based Community Service, UrbanLink](https://github.com/HongikB612/UrbanLink)
+- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+- Project Submission for Google Solution Challenge 2023
+- Community-based services to contribute to sustainable cities, goal 11 of the UN's 17 Sustainable Development Goals.
+- Responsible for project planning, team leading and managing, mobile app development using Flutter and backend development using Firebase.
+- UN 17개 지속 가능한 발전 목표 중 11번 째 목표인 지속 가능한 도시 기여를 위한 지역 기반 커뮤니티 서비스
+- 프로젝트 기획, 팀 리드 및 매니징, Flutter와 Firebase를 이용한 모바일 앱 개발, 백엔드 개발을 담당함
+</details>
 
 ## 🎮 Algorithm (with C++)
 
