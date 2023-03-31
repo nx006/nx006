@@ -7,7 +7,7 @@ Hi, I'm a student who is interested in programming and development from South Ko
 [Career 🇺🇸](#-historia) [🇰🇷](#-경력) | [Skills](#-skills) | [Projects](#-projects) | [Algorithm](#-algorithm-with-c) | [Study, Research, Speaker](#-study-research-speaker)
 
 ## 🚀 Historia
-| Date | Career | Role |
+| Period | Career | Role |
 |:---:|:---:|:---:|
 | 2022.03 ~ | Hongik University, Department of Computer Engineing |
 | 2022.06 ~ 2023.03 | Manager of the [HIBL(Hongik Blockchain)](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) Club | Founding Organizer |
