@@ -76,8 +76,8 @@ Studied History
 </a>
 
 ### Speak
-- [이더리움과 튜링 완전](https://youtu.becM5S6co65-k) (GDSC, Aug 2022)
-- [모던 C++](https://www.youtube.com/watchv=vVKgfyRnNp8) (GDSC, Jan 2023)
+- [이더리움과 튜링 완전](https://youtu.be/cM5S6co65-k) (GDSC, Aug 2022)
+- [모던 C++](https://youtu.be/vVKgfyRnNp8) (GDSC, Jan 2023)
 
 ---
 ## 🚀 경력
