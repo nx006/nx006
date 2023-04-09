@@ -68,10 +68,10 @@ Studied History
 - [Github](https://github.com/nx006/algorithm-study)
 
 ## 📖 Blog, Speaker
-<a href='https://nx006.tistory.com/' target='_blank'>
+<a href='https://nx006.tistory.com/' target=_blank>
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default" alt="Tistory Blog">
 </a> <br>
-<a href="https://nx006.tistory.com" target="_blank">
+<a href="https://nx006.tistory.com" target=_blank>
     <img src="https://github-readme-tistory-card.vercel.app/api?name=nx006" alt="Tistory Post">
 </a>
 
