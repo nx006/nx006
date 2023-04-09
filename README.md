@@ -54,12 +54,17 @@ Studied History
 - [Notion](https://hongik-b612.notion.site/5ba2e841c70e4743b1ef03dbdd94abbd?v=34108fefefcd42fea85c77819a1df199)
 - [Github](https://github.com/nx006/algorithm-study)
 
-## 📖 Study, Research, Speaker
+## 📖 Blog, Speaker
+<a href='https://nx006.tistory.com/' target='_blank'>
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default" alt="Tistory Blog">
+</a> <br>
+<a href="https://nx006.tistory.com" target="_blank">
+    <img src="https://github-readme-tistory-card.vercel.app/api?name=nx006" alt="Tistory Post">
+</a>
 
-- [Tistory blog](https://nx006.tistory.com/)
-- Speak
-    - [이더리움과 튜링 완전](https://youtu.be/cM5S6co65-k) (GDSC, Aug 2022)
-    - [모던 C++](https://www.youtube.com/watch?v=vVKgfyRnNp8) (GDSC, Jan 2023)
+### Speak
+- [이더리움과 튜링 완전](https://youtu.becM5S6co65-k) (GDSC, Aug 2022)
+- [모던 C++](https://www.youtube.com/watchv=vVKgfyRnNp8) (GDSC, Jan 2023)
 
 ---
 ## 🚀 경력
