@@ -6,7 +6,7 @@ Hi, I'm a student who is interested in programming and development from South Ko
 
 [Career 🇺🇸](#-historia) [🇰🇷](#-경력) | [Skills](#-skills) | [Projects](#-projects) | [Algorithm](#-algorithm-with-c) | [Blog, Speaker](#-blog-speaker)
 
-## 🚀 Historia
+## 🚀 Career
 | Period | Career | Role |
 |:---:|:---:|:---:|
 | 2022.03 ~ | Hongik University, Department of Computer Engineing |
@@ -36,7 +36,7 @@ Hi, I'm a student who is interested in programming and development from South Ko
 <h3 align="center"><b>Tools</b></h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"> <br> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"> <br> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white">
 </p>
 
 <h3 align="center"><b>Currently Learning</b></h3>
