@@ -72,7 +72,7 @@ Studied History
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default" alt="Tistory Blog">
 </a> <br>
 <a href="https://nx006.tistory.com" target=_blank>
-    <img src="https://github-readme-tistory-card.vercel.app/api?name=nx006" alt="Tistory Post">
+    <img src="https://github-readme-tistory-card.vercel.app/api?name=nx006&postId=28" alt="Tistory Post">
 </a>
 
 ### Speak
@@ -88,4 +88,4 @@ Studied History
 | 2022.08 ~ 2023.01 | GDSC 홍익 AIML 멤버 | |
 | 2022.12 ~ | HIBL X WAU PFP NFT 프로젝트 개발 | 스마트 컨트랙트 개발 |
 | 2022.12 ~ | [어린왕자 개발 학회 B612](https://github.com/HongikB612) 창립 운영진 | 창립 회장 |
-| 2023.01 ~ 2023.04 | GDSC 솔루션 챌린지 참가, [어반링크](https://github.com/HongikB612/UrbanLink) 프로젝트 제출 | 기획 겸 리드 개발 |
+| 2023.01 ~ 2023.04 | GDSC 솔루션 챌린지 참가, [어반링크](https://github.com/HongikB612/UrbanLink) 프로젝트 제출 | 기획 겸 모바일 개발 |
