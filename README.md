@@ -54,17 +54,10 @@ Hi, I'm a student who is interested in programming and development from South Ko
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmblue12)](https://solved.ac/gmblue12)
 
-## 📖 Blog, Speaker
-<a href='https://nx006.tistory.com/' target=_blank>
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default" alt="Tistory Blog">
-</a> <br>
+## 📖 Blog
 <a href="https://nx006.tistory.com" target=_blank>
-    <img src="https://github-readme-tistory-card.vercel.app/api?name=nx006&postId=29" alt="Tistory Post">
+    <img src="https://github-readme-tistory-card.vercel.app/api?name=nx006" alt="Tistory Post">
 </a>
-
-### Speak
-- [이더리움과 튜링 완전](https://youtu.be/cM5S6co65-k) (GDSC, Aug 2022)
-- [모던 C++](https://youtu.be/vVKgfyRnNp8) (GDSC, Jan 2023)
 
 ---
 
