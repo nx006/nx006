@@ -22,12 +22,7 @@ Hi, I'm a student who is interested in programming and development from South Ko
 
 <h3 align="center"><b>Frameworks</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-</p>
-
-<h3 align="center"><b>Blockchains</b></h3>
-<p align="center">
- <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"> <img src="https://img.shields.io/badge/Truffle-000000?style=for-the-badge&logo=truffle&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <br> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/Truffle-000000?style=for-the-badge&logo=truffle&logoColor=white">
 </p>
 
 <h3 align="center"><b>Tools</b></h3>
