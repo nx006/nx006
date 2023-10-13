@@ -10,8 +10,7 @@ Hi, I'm a student who is interested in programming and development from South Ko
 | 2022.03 ~ | Hongik University, Department of Computer Engineing |
 | 2022.06 ~ 2023.03 | Manager of the [HIBL(Hongik Blockchain)](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) Club | Founding Organizer |
 | 2022.08 ~ 2023.01 | Member of GDSC Hongik AIML |  |
-| 2022.12 ~ | Blockchain developer for HIBL X WAU PFP NFT Project | Smart Contract Developer |
-| 2022.12 ~ | Manager of development community [B612](https://github.com/HongikB612) | Founding President |
+| 2022.12 ~ | Manager of development community [B612](https://hongik-b612.notion.site/About-B612-6fba9fb0ec6c4a58bb1ed58b7b7dd641) | Founding President |
 | 2023.01 ~ 2023.04 | Developer for [UrbanLink](https://github.com/HongikB612/UrbanLink) - GDSC Solution Challenge | Project Manager, Mobile Developer |
 
 ## 📚 Skills
@@ -64,6 +63,5 @@ Hi, I'm a student who is interested in programming and development from South Ko
 | 2022.03 ~ | 홍익대학교 서울캠퍼스 컴퓨터공학과 입학 |
 | 2022.06 ~ 2023.03 | 홍익대학교 블록체인 학회 [HIBL](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd) 창립 운영진 | 스마트 컨트랙트 팀 운영 및 교육 담당, 총무 |
 | 2022.08 ~ 2023.01 | GDSC 홍익 AIML 멤버 | |
-| 2022.12 ~ | HIBL X WAU PFP NFT 프로젝트 개발 | 스마트 컨트랙트 개발 |
 | 2022.12 ~ | [어린왕자 개발 학회 B612](https://github.com/HongikB612) 창립 운영진 | 창립 회장 |
 | 2023.01 ~ 2023.04 | GDSC 솔루션 챌린지 참가, [어반링크](https://github.com/HongikB612/UrbanLink) 프로젝트 제출 | 기획 겸 모바일 개발 |
