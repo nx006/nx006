@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm nx006
 
-Hi, I'm a student who is interested in programming and development from South Korea.
+Hi, I'm a student who is interested in programming and development from South Korea.<br>
 안녕하세요. 개발에 관심을 갖고 공부를 하고 있는 nx006입니다. 꾸준히 성장하는 개발자를 목표로 하고 있습니다.
 
 
