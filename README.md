@@ -1,9 +1,9 @@
 ## <div align="center">👋 Hi, I'm nx006</div>
 
 ### Experience
-- Developer Club [B612](https://hongik-b612.notion.site/About-B612-6fba9fb0ec6c4a58bb1ed58b7b7dd641?pvs=4) : Founder and President (2022.12 ~ 2024.2)
+- Developer Club [B612](https://hongik-b612.notion.site/About-B612-6fba9fb0ec6c4a58bb1ed58b7b7dd641?pvs=4) : Founder, and President (2022.12 ~ 2024.2)
 - [GDSC Hongik 1st AIML Member](assets/gdsc_certificate.png) (2022.08 ~ 2023.06)
-- Hongik University Blockchain club([HIBL](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd)) : Educating and managing Smart Contract team (2022.06 ~ 2023.03)
+- Hongik University Blockchain club([HIBL](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd)) : Founder, and Manager (Educating Smart Contract team) (2022.06 ~ 2023.03)
 - Hongik University, Computer Science and Engineering (2022.03 ~ )
 
 ### Blog
