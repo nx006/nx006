@@ -1,5 +1,3 @@
-## <div align="center">👋 Hi, I'm nx006</div>
-
 ### Experience
 - Developer Club [B612](https://hongik-b612.notion.site/About-B612-6fba9fb0ec6c4a58bb1ed58b7b7dd641?pvs=4) : Founder, and President (2022.12 ~ 2024.2)
 - [GDSC Hongik 1st AIML Member](assets/gdsc_certificate.png) (2022.08 ~ 2023.06)
