@@ -8,15 +8,19 @@
 
 ### Blog
 <a href="https://nx006.tistory.com" target=_blank>
-    <img src="https://github-readme-tistory-card.vercel.app/api?name=nx006" alt="Tistory Post">
+    nx006.tistory.com
 </a>
 
-### Skills
-<p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
 ### Projects
+
+<details>
+<summary> <b> GDSC Solution Challenge 2024 - Safety Mobile </b> </summary>
+
+#### [Safety Rule Education App](https://github.com/GSC-2024-Hongik-Team-6/safety-mobile)
+- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+- Project Submission for GDSC Solution Challenge 2024
+- Learning safety rule based on quiz
+</details>
 
 <details>
 <summary> <b> GDSC Solution Challenge 2023 - UrbanLink </b> </summary>
@@ -28,6 +32,3 @@
 - Responsible for project planning, team leading and managing, mobile app development using Flutter and backend development using Firebase.
 </details>
 
-### Algorithm (with C++)
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmblue12)](https://solved.ac/gmblue12)
