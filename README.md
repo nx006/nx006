@@ -1,8 +1,9 @@
 ### Experience
-- Developer Club [B612](https://hongik-b612.notion.site/About-B612-6fba9fb0ec6c4a58bb1ed58b7b7dd641?pvs=4) : Founder, and President (2022.12 ~ 2024.2)
-- [GDSC Hongik 1st AIML Member](assets/gdsc_certificate.png) (2022.08 ~ 2023.06)
-- Hongik University Blockchain club([HIBL](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd)) : Founder, and Manager (Educating Smart Contract team) (2022.06 ~ 2023.03)
-- Hongik University, Computer Science and Engineering (2022.03 ~ )
+- 육군 병장 만기 전역 (2024.08 ~ 2026.02
+- 개발 학회 [B612](https://hongik-b612.notion.site/About-B612-6fba9fb0ec6c4a58bb1ed58b7b7dd641?pvs=4) : 창립 회장 (총괄 운영 및 Flutter 모바일 개발) (2022.12 - 2024.2)
+- [GDSC Hongik 1기 AIML Member](assets/gdsc_certificate.png) (2022.08 - 2023.06)
+- Hongik University Blockchain club([HIBL](https://maddening-servant-2d3.notion.site/About-HIBL-e310770841094897970e814aca1015dd)) : 0기, 1기 운영진 (Solidity 스마트 컨트랙트 개발 및 교육 수행) (2022.06 - 2023.03)
+- 홍익대학교 컴퓨터공학과 입학 (2022.03)
 
 ### Blog
 <a href="https://nx006.tistory.com" target=_blank>
